@@ -5,7 +5,7 @@ import os
 import streamlit as st
 
 def main():
-  st.title("Stremail emailing")
+  st.title("Sign up for Stremail. Click "Add AI to my account if you want access to the AI email writing portion of our service")
 
 if __name__ == "__main__":
   main()
